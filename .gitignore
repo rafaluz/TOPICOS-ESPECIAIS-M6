@@ -1,4 +1,5 @@
 /env
 /venv
-/logs
+logs/
 .ipynb_checkpoints
+*.h5
